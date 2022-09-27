@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🇨🇴 I'm from Cali, Colombia :)
+- 🔭 I’m currently studying at Universidad Autonoma de Occidente
+- 📚 I'm Engineering Informatics in my last year
+- 🌱 I’m currently learning React Native
+
+## My Abilities
+- Team work
+- Problem solving
+- Self-study
+- Answer's capacity.
+- Adaptability.
+- Attention to details.
+- Collaboration.
+- Communications skills.
+- Creativity.
+- Critical thinking
