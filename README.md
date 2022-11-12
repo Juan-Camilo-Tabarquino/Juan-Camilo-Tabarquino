@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🇨🇴 I'm from Cali, Colombia :)
 - 🔭 I’m currently studying at Universidad Autonoma de Occidente
 - 📚 I'm Engineering Informatics in my last year
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning NextJs and TypeScript
 
 ## My Abilities
 - Team work
