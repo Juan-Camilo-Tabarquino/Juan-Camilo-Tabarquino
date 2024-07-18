@@ -15,10 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🇨🇴 I'm from Cali, Colombia :)
-- 🔭 I’m an Informatic Engenieer at Universidad Autonoma de Occidente
-- 📚 I'm Engineering Informatics in my last year
-- 🌱 I’m currently learning NextJs and TypeScript
+- 🇨🇴 I am from Cali, Colombia :)
+- 🔭 I am an Informatic Engenieer at The Universidad Autonoma de Occidente
+- 🌱 I am a Fullstack Developer using tecnologies such as NextJS, Typescript, NodeJS, Express, NestJS, React and Postgresql.
 
 ## My Abilities
 - Team work
